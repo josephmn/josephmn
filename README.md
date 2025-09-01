@@ -89,6 +89,7 @@
   <img height="48px" width="48px" alt="icon ubuntu" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg"/>
   <img height="48px" width="48px" alt="icon fedora" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg"/>
   <img height="48px" width="48px" alt="icon mac" src="https://www.vectorlogo.zone/logos/apple/apple-tile.svg"/>
+  <img height="48px" width="48px" alt="icon linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
   <img height="48px" width="48px" alt="icon nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"/>
 </p>
 
@@ -99,14 +100,27 @@
   <img height="48px" width="48px" alt="icon idea" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/intellij-idea.svg"/>
   <img height="48px" width="48px" alt="icon vscode" src="https://raw.githubusercontent.com/bestofjs/bestofjs/aa8cb6153b81b9da303c39b0d59fd00c5d9584e3/apps/web/public/logos/vscode.dark.svg"/>
   <img height="48px" width="48px" alt="icon eclipse" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/eclipse-icon.svg"/>
-  <img height="48px" width="48px" alt="icon springTools" src="https://spring.io/img/logos/spring-tool.svg"/>
+  <img height="48px" width="48px" alt="icon springTools" src="https://pbs.twimg.com/profile_images/1856632411217399808/TdD2xQ8N_400x400.png"/>
+</p>
+
+<!-- DevOps -->
+### 🛠️ DevOps
+<p align="left">
+  <img height="48px" width="48px" alt="icon github" src="https://www.vectorlogo.zone/logos/github/github-tile.svg"/>
+  <img height="48px" width="48px" alt="icon gitlab" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-tile.svg"/>
+  <img height="48px" width="48px" alt="icon bitbucket" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/bitbucket.svg"/>
+  <img height="48px" width="48px" alt="icon bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"/>
+  <img height="48px" width="48px" alt="icon powershell" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Powershell-Dark.svg"/>
+  <img height="48px" width="48px" alt="icon jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"/>
+  <img height="48px" width="48px" alt="icon maven" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg"/>
+  <img height="48px" width="48px" alt="icon gradle" src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg"/>
 </p>
 
 <!-- Tools -->
 ### 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,linux,bash,jenkins,terraform,,postman,,,notion,discord,,elasticsearch,grafana,maven,gradle,powershell,sketchup" />
+    <img src="https://skillicons.dev/icons?i=terraform,postman,notion,elasticsearch,grafana," />
   </a>
 </p>
 
