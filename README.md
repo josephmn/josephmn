@@ -21,12 +21,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmn&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmn&hide_progress=true)-->
 
-<!-- Languages -->
-### 🚀 Languages
+<!-- Programming Languages -->
+### 👨🏻‍💻 Programming Languages
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,dotnet,nodejs,php,html,css" />
-  </a>
+  <img height="48px" width="48px" alt="icon java" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/java.svg"/>
+  <img height="48px" width="48px" alt="icon cs" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/csharp/csharp.svg"/>
+  <img height="48px" width="48px" alt="icon php" src="https://skillicons.dev/icons?i=php"/>
+  <img height="48px" width="48px" alt="icon javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
 </p>
 
 <!-- Data Bases -->
@@ -37,7 +38,7 @@
   <img height="48px" width="48px" alt="icon mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
   <img height="48px" width="48px" alt="icon postgresql" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
   <img height="48px" width="48px" alt="icon oracle" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/>
-  <img height="48px" width="48px" alt="icon dynamodb" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DynamoDB-Dark.svg"/>
+  <img height="48px" width="48px" alt="icon dynamodb" src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg"/>
   <img height="48px" width="48px" alt="icon mongodb" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
   <img height="48px" width="48px" alt="icon redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"/>
 </p>
@@ -45,22 +46,40 @@
 <!-- Platforms -->
 ### ☁️ Platforms
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,openshift" />
-  </a>
+  <img height="48px" width="48px" alt="icon azure" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/microsoft-azure.svg"/>
+  <img height="48px" width="48px" alt="icon aws" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1920px-Amazon_Web_Services_Logo.svg.png"/>
+  <img height="48px" width="48px" alt="icon docker" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"/>
+  <img height="48px" width="48px" alt="icon kubernetes" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"/>
+  <img height="48px" width="48px" alt="icon nodejs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
+  <img height="48px" width="48px" alt="icon openshift" src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"/>
 </p>
 
-<!-- Frameworks -->
-### 📁 Frameworks
+<!-- Markup & Stylesheet -->
+### 🌟 Markup & Stylesheet
+<p align="left">
+  <img height="48px" width="48px" alt="icon html" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/>
+  <img height="48px" width="48px" alt="icon css" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg"/>
+  <img height="48px" width="48px" alt="icon bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/>
+  <img height="48px" width="48px" alt="icon sass" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
+  <img height="48px" width="48px" alt="icon wordpress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg"/>
+</p>
+
+<!-- Graphic Tools -->
+### 💎 Graphic Tools
+<p align="left">
+  <img height="48px" width="48px" alt="icon ps" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg"/>
+  <img height="48px" width="48px" alt="icon ai" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg"/>
+</p>
+
+<!-- Frameworks & Libraries -->
+### 📁 Frameworks & Libraries
 <p align="left">
   <img height="48px" width="48px" alt="icon spring" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"/>
   <img height="48px" width="48px" alt="icon quarkus" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/quarkus-icon.svg"/>
+  <img height="48px" width="48px" alt="icon dotnet" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg"/>
   <img height="48px" width="48px" alt="icon angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
   <img height="48px" width="48px" alt="icon codeigniter" src="https://vectorwiki.com/images/Y1YX7__codeigniter.svg"/>
-  <img height="48px" width="48px" alt="icon bootstrap" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"/>
   <img height="48px" width="48px" alt="icon express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
-  <img height="48px" width="48px" alt="icon sass" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
-  <img height="48px" width="48px" alt="icon wordpress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg"/>
 </p>
 
 <!-- Operating Systems -->
@@ -73,11 +92,21 @@
   <img height="48px" width="48px" alt="icon nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"/>
 </p>
 
+<!-- IDE's -->
+### ✏️ IDE
+<p align="left">
+  <img height="48px" width="48px" alt="icon visualstudio" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/visual-studio.svg"/>
+  <img height="48px" width="48px" alt="icon idea" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/intellij-idea.svg"/>
+  <img height="48px" width="48px" alt="icon vscode" src="https://raw.githubusercontent.com/bestofjs/bestofjs/aa8cb6153b81b9da303c39b0d59fd00c5d9584e3/apps/web/public/logos/vscode.dark.svg"/>
+  <img height="48px" width="48px" alt="icon eclipse" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/eclipse-icon.svg"/>
+  <img height="48px" width="48px" alt="icon springTools" src="https://spring.io/img/logos/spring-tool.svg"/>
+</p>
+
 <!-- Tools -->
 ### 🛠️ Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,linux,bash,jenkins,terraform,idea,postman,visualstudio,vscode,notion,discord,eclipse,elasticsearch,grafana,maven,gradle,powershell,sketchup" />
+    <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket,linux,bash,jenkins,terraform,,postman,,,notion,discord,,elasticsearch,grafana,maven,gradle,powershell,sketchup" />
   </a>
 </p>
 
