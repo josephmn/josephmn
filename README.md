@@ -28,6 +28,7 @@
   <img height="48px" width="48px" alt="icon cs" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/csharp/csharp.svg"/>
   <img height="48px" width="48px" alt="icon php" src="https://skillicons.dev/icons?i=php"/>
   <img height="48px" width="48px" alt="icon javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
+  <img height="48px" width="48px" alt="icon typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
 </p>
 
 <!-- Data Bases -->
