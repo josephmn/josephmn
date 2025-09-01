@@ -37,6 +37,7 @@
   <img height="48px" width="48px" alt="icon mysql" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"/>
   <img height="48px" width="48px" alt="icon postgresql" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"/>
   <img height="48px" width="48px" alt="icon oracle" src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg"/>
+  <img height="48px" width="48px" alt="icon db2" src="https://db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png"/>
   <img height="48px" width="48px" alt="icon dynamodb" src="https://cdn.worldvectorlogo.com/logos/aws-dynamodb.svg"/>
   <img height="48px" width="48px" alt="icon mongodb" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
   <img height="48px" width="48px" alt="icon redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"/>
@@ -120,9 +121,11 @@
 <!-- Tools -->
 ### 🛠️ Tools
 <p align="left">
+  <img height="48px" width="48px" alt="icon kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/>
   <img height="48px" width="48px" alt="icon terraform" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"/>
   <img height="48px" width="48px" alt="icon postman" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/>
   <img height="48px" width="48px" alt="icon bruno" src="https://raw.githubusercontent.com/bestofjs/bestofjs/aa8cb6153b81b9da303c39b0d59fd00c5d9584e3/apps/web/public/logos/bruno.svg"/>
+  <img height="48px" width="48px" alt="icon rabbit" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"/>
   <img height="48px" width="48px" alt="icon notion" src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d7794f8ff1df7cc077fcfc5081ab9e667ec0d9/icons/notion.svg"/>
   <img height="48px" width="48px" alt="icon elasticsearch" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/elasticsearch.svg"/>
   <img height="48px" width="48px" alt="icon grafana" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/grafana.svg"/>
@@ -135,10 +138,14 @@
   <img height="48px" width="48px" alt="icon json" src="https://raw.githubusercontent.com/simple-icons/simple-icons/63d7794f8ff1df7cc077fcfc5081ab9e667ec0d9/icons/json.svg"/>
   <img height="48px" width="48px" alt="icon rdp" src="https://raw.githubusercontent.com/lucky-yoolk/icons-flat-osx/2a665e0f2d7024b66c60eabc3006e2430542870e/SVG/Apps-Ms-Remote-Desktop.svg"/>
   <img height="48px" width="48px" alt="icon office" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/cb5ebcfe5204e1685e15aac82a92f62bd7e59095/svg/microsoft-office.svg"/>
-  
+  <img height="48px" width="48px" alt="icon apache" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg"/>
   <img height="48px" width="48px" alt="icon iis" src="https://www.deepnetsecurity.com/wp-content/uploads/MFA-for-IIS-Websites.png"/>
   <img height="48px" width="48px" alt="icon tomcat" src="https://www.vectorlogo.zone/logos/apache_tomcat/apache_tomcat-icon.svg"/>
   <img height="48px" width="48px" alt="icon dbeaver" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/dbeaver/dbeaver-original.svg"/>
   <img height="48px" width="48px" alt="icon heidisql" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png"/>
-  <img height="48px" width="48px" alt="icon phpmyadmin" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21~bgwhite.svg"/>
+  <img height="48px" width="48px" alt="icon phpmyadmin" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"/>
+  <img height="48px" width="48px" alt="icon sap" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg"/>
+  <img height="48px" width="48px" alt="icon dynamicssl" src="https://www.gravoc.com/wp-content/uploads/2014/05/dynamicslogo.png"/>
+  <img height="48px" width="48px" alt="icon powerbi" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/cb5ebcfe5204e1685e15aac82a92f62bd7e59095/svg/powerbi.svg"/>
+  <img height="48px" width="48px" alt="icon pentaho" src="https://res-5.cloudinary.com/hbdyf1hp4/image/upload/q_auto/v1/images/pentaho-logo.png"/>
 </p>
