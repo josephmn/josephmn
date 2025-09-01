@@ -20,6 +20,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephmn&show_icons=true&bg_color=00000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmn&layout=compact)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmn&hide_progress=true)-->
+<hr/>
 
 <!-- Programming Languages -->
 ### 👨🏻‍💻 Programming Languages
@@ -30,6 +31,7 @@
   <img height="48px" width="48px" alt="icon javascript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/>
   <img height="48px" width="48px" alt="icon typescript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"/>
 </p>
+<hr/>
 
 <!-- Data Bases -->
 ### 📊 Data Bases
@@ -44,6 +46,7 @@
   <img height="48px" width="48px" alt="icon redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"/>
   <img height="48px" width="48px" alt="icon sqlite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
 </p>
+<hr/>
 
 <!-- Platforms -->
 ### ☁️ Platforms
@@ -55,6 +58,7 @@
   <img height="48px" width="48px" alt="icon nodejs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"/>
   <img height="48px" width="48px" alt="icon openshift" src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"/>
 </p>
+<hr/>
 
 <!-- Markup & Stylesheet -->
 ### 🌟 Markup & Stylesheet
@@ -65,6 +69,7 @@
   <img height="48px" width="48px" alt="icon sass" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"/>
   <img height="48px" width="48px" alt="icon wordpress" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg"/>
 </p>
+<hr/>
 
 <!-- Graphic Tools -->
 ### 💎 Graphic Tools
@@ -72,6 +77,7 @@
   <img height="48px" width="48px" alt="icon ps" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg"/>
   <img height="48px" width="48px" alt="icon ai" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Illustrator.svg"/>
 </p>
+<hr/>
 
 <!-- Frameworks & Libraries -->
 ### 📁 Frameworks & Libraries
@@ -83,6 +89,7 @@
   <img height="48px" width="48px" alt="icon codeigniter" src="https://vectorwiki.com/images/Y1YX7__codeigniter.svg"/>
   <img height="48px" width="48px" alt="icon express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
 </p>
+<hr/>
 
 <!-- Operating Systems -->
 ### 💻 Operating Systems
@@ -94,6 +101,7 @@
   <img height="48px" width="48px" alt="icon linux" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"/>
   <img height="48px" width="48px" alt="icon nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg"/>
 </p>
+<hr/>
 
 <!-- IDE's -->
 ### ✏️ IDE
@@ -104,6 +112,7 @@
   <img height="48px" width="48px" alt="icon eclipse" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/eclipse-icon.svg"/>
   <img height="48px" width="48px" alt="icon springTools" src="https://pbs.twimg.com/profile_images/1856632411217399808/TdD2xQ8N_400x400.png"/>
 </p>
+<hr/>
 
 <!-- DevOps -->
 ### 🛠️ DevOps
@@ -118,6 +127,7 @@
   <img height="48px" width="48px" alt="icon maven" src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg"/>
   <img height="48px" width="48px" alt="icon gradle" src="https://www.vectorlogo.zone/logos/gradle/gradle-icon.svg"/>
 </p>
+<hr/>
 
 <!-- Tools -->
 ### 🛠️ Tools
@@ -150,3 +160,4 @@
   <img height="48px" width="48px" alt="icon powerbi" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/cb5ebcfe5204e1685e15aac82a92f62bd7e59095/svg/powerbi.svg"/>
   <img height="48px" width="48px" alt="icon pentaho" src="https://res-5.cloudinary.com/hbdyf1hp4/image/upload/q_auto/v1/images/pentaho-logo.png"/>
 </p>
+<hr/>
