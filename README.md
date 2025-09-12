@@ -88,6 +88,7 @@
   <img height="48px" width="48px" alt="icon angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
   <img height="48px" width="48px" alt="icon codeigniter" src="https://vectorwiki.com/images/Y1YX7__codeigniter.svg"/>
   <img height="48px" width="48px" alt="icon express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
+  <img height="48px" width="48px" alt="icon nestjs" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/>
 </p>
 <hr/>
 
