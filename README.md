@@ -17,8 +17,8 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmn&layout=pie)](https://github.com/josephmn/github-readme-stats)-->
 
 <!-- chart -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephmn&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmn&layout=compact)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josephmn&show_icons=true&bg_color=00000000)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmn&layout=compact)-->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephmn&hide_progress=true)-->
 <hr/>
 
@@ -45,6 +45,7 @@
   <img height="48px" width="48px" alt="icon mongodb" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"/>
   <img height="48px" width="48px" alt="icon redis" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg"/>
   <img height="48px" width="48px" alt="icon sqlite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
+  <img height="48px" width="48px" alt="icon cosmosdb" src="https://icon.icepanel.io/Technology/svg/Cosmos-BD.svg"/>
 </p>
 <hr/>
 
@@ -86,7 +87,7 @@
   <img height="48px" width="48px" alt="icon quarkus" src="https://raw.githubusercontent.com/gilbarbara/logos/de2c1f96ff6e74ea7ea979b43202e8d4b863c655/logos/quarkus-icon.svg"/>
   <img height="48px" width="48px" alt="icon dotnet" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg"/>
   <img height="48px" width="48px" alt="icon angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"/>
-  <img height="48px" width="48px" alt="icon codeigniter" src="https://vectorwiki.com/images/Y1YX7__codeigniter.svg"/>
+  <img height="48px" width="48px" alt="icon codeigniter" src="https://icon.icepanel.io/Technology/svg/CodeIgniter.svg"/>
   <img height="48px" width="48px" alt="icon express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/>
   <img height="48px" width="48px" alt="icon nestjs" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg"/>
 </p>
