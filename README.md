@@ -158,7 +158,7 @@
   <img height="48px" width="48px" alt="icon heidisql" src="https://upload.wikimedia.org/wikipedia/commons/3/32/HeidiSQL_logo_image.png"/>
   <img height="48px" width="48px" alt="icon phpmyadmin" src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg"/>
   <img height="48px" width="48px" alt="icon sap" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg"/>
-  <img height="48px" width="48px" alt="icon dynamicssl" src="https://www.gravoc.com/wp-content/uploads/2014/05/dynamicslogo.png"/>
+  <img height="48px" width="48px" alt="icon dynamicssl" src="https://adoption.microsoft.com/wp-content/uploads/2022/05/icon-dynamics-365.png"/>
   <img height="48px" width="48px" alt="icon powerbi" src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/cb5ebcfe5204e1685e15aac82a92f62bd7e59095/svg/powerbi.svg"/>
   <img height="48px" width="48px" alt="icon pentaho" src="https://res-5.cloudinary.com/hbdyf1hp4/image/upload/q_auto/v1/images/pentaho-logo.png"/>
 </p>
